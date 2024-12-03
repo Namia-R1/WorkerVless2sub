@@ -1,19 +1,9 @@
 
-let 快速订阅访问入口= ['auto'];
+let 快速订阅访问入口= ['8c4588cb-a60f-49ba-96f1-43132d7302f3'];
 let addresses = [];
 let addressesapi = [ 
 	//'https://raw.githubusercontent.com/Namia-R1/Cloudflare-ip/refs/heads/main/US.txt'
-	'log.bpminecraft.com:8443#多线'
-	'l1.irancloudflare.cab:8443#多线'
-	'ledtunnel-dgp.pages.dev:2053#多线'
-	'lacjp.cloudflarest.link:2053#多线'
-	'lachk.cloudflarest.link:2053#多线'
-	'lzygapophyses.butterfly-galaxy.com:2053'
-	'lacsg3.cloudflarest.link:8443#多线'
-	'lacsg3.cloudflarest.link#多线'
-	'lacsg3.cloudflarest.link:2053#多线'
-	'lcdnhk.huabuxiang.vip:2083#香港'
-	'lcdnhk.huabuxiang.vip:2053#香港'
+
 ];
 
 let addressesnotls = [];
