@@ -1,7 +1,9 @@
 
 let 快速订阅访问入口= ['auto'];
 let addresses = [];
-let addressesapi = [];
+let addressesapi = [ 
+	'https://raw.githubusercontent.com/Namia-R1/Cloudflare-ip/refs/heads/main/US.txt'
+];
 
 let addressesnotls = [];
 let addressesnotlsapi = [];
