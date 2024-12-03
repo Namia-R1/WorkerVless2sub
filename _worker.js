@@ -2,7 +2,7 @@
 let 快速订阅访问入口= ['8c4588cb-a60f-49ba-96f1-43132d7302f3'];
 let addresses = [];
 let addressesapi = [ 
-	'https://raw.githubusercontent.com/Namia-R1/Cloudflare-ip/refs/heads/main/US.txt'
+	//'https://raw.githubusercontent.com/Namia-R1/Cloudflare-ip/refs/heads/main/US.txt'
 
 ];
 
